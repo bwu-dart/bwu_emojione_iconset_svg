@@ -1,5 +1,5 @@
 name: bwu_emojione_iconset_svg
-version: 0.0.1
+version: 0.1.0
 description: SVG Emoji provided free by Emoji One packed as Polymer core-iconset
 homepage: https://github.com/bwu-dart/bwu_emojione_iconset_svg
 author: Günter Zöchbauer <guenter@gzoechbauer.com>
