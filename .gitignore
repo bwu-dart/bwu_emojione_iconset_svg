@@ -1,0 +1,11 @@
+packages
+.pub/
+.idea/
+build
+#pubspec.lock
+.project
+.buildlog
+.settings
+*.exe
+*.*~
+

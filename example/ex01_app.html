@@ -1,0 +1,72 @@
+<link rel="import" href="packages/polymer/polymer.html">
+<link rel="import" href="packages/core_elements/core_icon.html">
+<link rel="import" href="packages/bwu_emojione_iconset_svg/emojione_emoticons.html">
+<link rel="import" href="packages/bwu_emojione_iconset_svg/emojione_dingbats.html">
+<link rel="import" href="packages/bwu_emojione_iconset_svg/emojione_enclosed_characters.html">
+<link rel="import" href="packages/bwu_emojione_iconset_svg/emojione_transport_and_map.html">
+<link rel="import" href="packages/bwu_emojione_iconset_svg/emojione_uncategorized.html">
+
+<polymer-element name="ex01-app">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+
+      h2 {
+        text-transform: capitalize;
+      }
+
+      core-icon {
+        transition: all 0.2s;
+        -webkit-transition: all 0.2s;
+      }
+
+      core-icon:hover {
+        fill: #fb8c00;
+      }
+
+      .set {
+        padding: 1em 0;
+        border-bottom: 1px solid silver;
+        color: #656565;
+      }
+
+      .container {
+        min-width: 10em;
+        padding: 1em;
+      }
+
+      .container > div {
+        color: black;
+      }
+
+    </style>
+    <h2>BWU Emojione Iconset SVG - Example 1</h2>
+    <h3>Other core iconsets</h3>
+    <ul>
+      <li><a href="http://polymer.github.io/core-icons/components/core-icons/demo.html" target="_blank">Polymer core-icons overview</a> </li>
+      <li><a href="http://bwu-dart.github.io/bwu_fontawesome_iconset_svg/example/example03.html" target="_blank">BWU Fontawesome Iconset SVG overview</a> </li>
+    </ul>
+
+    <emojione-emoticons id="Emoticons" is-iconset></emojione-emoticons>
+    <emojione-dingbats id="Dingbats" is-iconset></emojione-dingbats>
+    <emojione-enclosed-characters id="Enclosed characters" is-iconset></emojione-enclosed-characters>
+    <emojione-transport-and-map id="Transport and map" is-iconset></emojione-transport-and-map>
+    <emojione-uncategorized id="Uncategorized" is-iconset></emojione-uncategorized>
+
+    <template repeat="{{ category in categories }}" >
+      <h3>{{category}} ({{category|getPrefix}})</h3>
+      <div class="set" horizontal wrap justified layout>
+      <template repeat="{{ icon in category|getIconNames }}">
+        <span class="container" vertical center layout>
+          <core-icon icon="{{ icon }}"></core-icon>
+
+          <div>{{ icon }}</div>
+        </span>
+      </template>
+    </div>
+    </template>
+  </template>
+  <script type="application/dart" src="ex01_app.dart"></script>
+</polymer-element>
