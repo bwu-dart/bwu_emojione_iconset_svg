@@ -1,0 +1,414 @@
+        <g id="U1F6C3" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C3.svg#U1F6C3"></use>
+        </g>
+        <g id="U1F69A" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69A.svg#U1F69A"></use>
+        </g>
+        <g id="U1F697" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F697.svg#U1F697"></use>
+        </g>
+        <g id="U1F680" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F680.svg#U1F680"></use>
+        </g>
+        <g id="U1F691" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F691.svg#U1F691"></use>
+        </g>
+        <g id="U1F6AA" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AA.svg#U1F6AA"></use>
+        </g>
+        <g id="U1F6A8" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A8.svg#U1F6A8"></use>
+        </g>
+        <g id="U1F6B3" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B3.svg#U1F6B3"></use>
+        </g>
+        <g id="U1F6AF" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AF.svg#U1F6AF"></use>
+        </g>
+        <g id="U1F681" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F681.svg#U1F681"></use>
+        </g>
+        <g id="U1F6A5" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A5.svg#U1F6A5"></use>
+        </g>
+        <g id="U1F692" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F692.svg#U1F692"></use>
+        </g>
+        <g id="U1F69F" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69F.svg#U1F69F"></use>
+        </g>
+        <g id="U1F69B" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69B.svg#U1F69B"></use>
+        </g>
+        <g id="U1F695" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F695.svg#U1F695"></use>
+        </g>
+        <g id="U1F6C0" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C0.svg#U1F6C0"></use>
+        </g>
+        <g id="U1F6A1" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A1.svg#U1F6A1"></use>
+        </g>
+        <g id="U1F6BA" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BA.svg#U1F6BA"></use>
+        </g>
+        <g id="U1F696" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F696.svg#U1F696"></use>
+        </g>
+        <g id="U1F69D" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69D.svg#U1F69D"></use>
+        </g>
+        <g id="U1F688" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F688.svg#U1F688"></use>
+        </g>
+        <g id="U1F6AE" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AE.svg#U1F6AE"></use>
+        </g>
+        <g id="U1F6A6" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A6.svg#U1F6A6"></use>
+        </g>
+        <g id="U1F6A4" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A4.svg#U1F6A4"></use>
+        </g>
+        <g id="U1F68C" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F68C.svg#U1F68C"></use>
+        </g>
+        <g id="U1F6A2" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A2.svg#U1F6A2"></use>
+        </g>
+        <g id="U1F6BF" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BF.svg#U1F6BF"></use>
+        </g>
+        <g id="U1F684" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F684.svg#U1F684"></use>
+        </g>
+        <g id="U1F685" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F685.svg#U1F685"></use>
+        </g>
+        <g id="U1F6AC" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AC.svg#U1F6AC"></use>
+        </g>
+        <g id="U1F6B0" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B0.svg#U1F6B0"></use>
+        </g>
+        <g id="U1F69E" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69E.svg#U1F69E"></use>
+        </g>
+        <g id="U1F6B7" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B7.svg#U1F6B7"></use>
+        </g>
+        <g id="U1F683" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F683.svg#U1F683"></use>
+        </g>
+        <g id="U1F6AD" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AD.svg#U1F6AD"></use>
+        </g>
+        <g id="U1F6C1" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C1.svg#U1F6C1"></use>
+        </g>
+        <g id="U1F6C2" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C2.svg#U1F6C2"></use>
+        </g>
+        <g id="U1F693" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F693.svg#U1F693"></use>
+        </g>
+        <g id="U1F68F" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F68F.svg#U1F68F"></use>
+        </g>
+        <g id="U1F6BD" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BD.svg#U1F6BD"></use>
+        </g>
+        <g id="U1F6B9" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B9.svg#U1F6B9"></use>
+        </g>
+        <g id="U1F699" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F699.svg#U1F699"></use>
+        </g>
+        <g id="U1F69C" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69C.svg#U1F69C"></use>
+        </g>
+        <g id="U1F68A" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F68A.svg#U1F68A"></use>
+        </g>
+        <g id="U1F6B5" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B5.svg#U1F6B5"></use>
+        </g>
+        <g id="U1F690" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F690.svg#U1F690"></use>
+        </g>
+        <g id="U1F6A9" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A9.svg#U1F6A9"></use>
+        </g>
+        <g id="U1F68D" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F68D.svg#U1F68D"></use>
+        </g>
+        <g id="U1F6B4" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B4.svg#U1F6B4"></use>
+        </g>
+        <g id="U1F6BE" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BE.svg#U1F6BE"></use>
+        </g>
+        <g id="U1F6AB" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AB.svg#U1F6AB"></use>
+        </g>
+        <g id="U1F698" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F698.svg#U1F698"></use>
+        </g>
+        <g id="U1F687" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F687.svg#U1F687"></use>
+        </g>
+        <g id="U1F6B2" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B2.svg#U1F6B2"></use>
+        </g>
+        <g id="U1F686" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F686.svg#U1F686"></use>
+        </g>
+        <g id="U1F6BB" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BB.svg#U1F6BB"></use>
+        </g>
+        <g id="U1F6B6" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B6.svg#U1F6B6"></use>
+        </g>
+        <g id="U1F682" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F682.svg#U1F682"></use>
+        </g>
+        <g id="U1F6A7" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A7.svg#U1F6A7"></use>
+        </g>
+        <g id="U1F6C5" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C5.svg#U1F6C5"></use>
+        </g>
+        <g id="U1F6B1" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B1.svg#U1F6B1"></use>
+        </g>
+        <g id="U1F68E" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F68E.svg#U1F68E"></use>
+        </g>
+        <g id="U1F6A3" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A3.svg#U1F6A3"></use>
+        </g>
+        <g id="U1F6C4" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C4.svg#U1F6C4"></use>
+        </g>
+        <g id="U1F694" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F694.svg#U1F694"></use>
+        </g>
+        <g id="U1F689" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F689.svg#U1F689"></use>
+        </g>
+        <g id="U1F6BC" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BC.svg#U1F6BC"></use>
+        </g>
+        <g id="U1F6B8" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B8.svg#U1F6B8"></use>
+        </g>
+        <g id="U1F6A0" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A0.svg#U1F6A0"></use>
+        </g>
+        <g id="rocket" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F680.svg#U1F680"></use>
+        </g>
+        <g id="railway_car" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F683.svg#U1F683"></use>
+        </g>
+        <g id="bullettrain_side" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F684.svg#U1F684"></use>
+        </g>
+        <g id="bullettrain_front" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F685.svg#U1F685"></use>
+        </g>
+        <g id="metro" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F687.svg#U1F687"></use>
+        </g>
+        <g id="station" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F689.svg#U1F689"></use>
+        </g>
+        <g id="bus" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F68C.svg#U1F68C"></use>
+        </g>
+        <g id="busstop" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F68F.svg#U1F68F"></use>
+        </g>
+        <g id="ambulance" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F691.svg#U1F691"></use>
+        </g>
+        <g id="fire_engine" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F692.svg#U1F692"></use>
+        </g>
+        <g id="police_car" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F693.svg#U1F693"></use>
+        </g>
+        <g id="taxi" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F695.svg#U1F695"></use>
+        </g>
+        <g id="red_car" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F697.svg#U1F697"></use>
+        </g>
+        <g id="blue_car" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F699.svg#U1F699"></use>
+        </g>
+        <g id="truck" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69A.svg#U1F69A"></use>
+        </g>
+        <g id="ship" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A2.svg#U1F6A2"></use>
+        </g>
+        <g id="speedboat" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A4.svg#U1F6A4"></use>
+        </g>
+        <g id="traffic_light" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A5.svg#U1F6A5"></use>
+        </g>
+        <g id="construction" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A7.svg#U1F6A7"></use>
+        </g>
+        <g id="rotating_light" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A8.svg#U1F6A8"></use>
+        </g>
+        <g id="triangular_flag_on_post" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A9.svg#U1F6A9"></use>
+        </g>
+        <g id="door" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AA.svg#U1F6AA"></use>
+        </g>
+        <g id="no_entry_sign" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AB.svg#U1F6AB"></use>
+        </g>
+        <g id="smoking" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AC.svg#U1F6AC"></use>
+        </g>
+        <g id="no_smoking" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AD.svg#U1F6AD"></use>
+        </g>
+        <g id="bike" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B2.svg#U1F6B2"></use>
+        </g>
+        <g id="walking" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B6.svg#U1F6B6"></use>
+        </g>
+        <g id="mens" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B9.svg#U1F6B9"></use>
+        </g>
+        <g id="womens" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BA.svg#U1F6BA"></use>
+        </g>
+        <g id="restroom" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BB.svg#U1F6BB"></use>
+        </g>
+        <g id="baby_symbol" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BC.svg#U1F6BC"></use>
+        </g>
+        <g id="toilet" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BD.svg#U1F6BD"></use>
+        </g>
+        <g id="wc" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BE.svg#U1F6BE"></use>
+        </g>
+        <g id="bath" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C0.svg#U1F6C0"></use>
+        </g>
+        <g id="helicopter" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F681.svg#U1F681"></use>
+        </g>
+        <g id="steam_locomotive" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F682.svg#U1F682"></use>
+        </g>
+        <g id="train2" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F686.svg#U1F686"></use>
+        </g>
+        <g id="light_rail" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F688.svg#U1F688"></use>
+        </g>
+        <g id="tram" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F68A.svg#U1F68A"></use>
+        </g>
+        <g id="oncoming_bus" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F68D.svg#U1F68D"></use>
+        </g>
+        <g id="trolleybus" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F68E.svg#U1F68E"></use>
+        </g>
+        <g id="minibus" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F690.svg#U1F690"></use>
+        </g>
+        <g id="oncoming_police_car" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F694.svg#U1F694"></use>
+        </g>
+        <g id="oncoming_taxi" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F696.svg#U1F696"></use>
+        </g>
+        <g id="oncoming_automobile" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F698.svg#U1F698"></use>
+        </g>
+        <g id="articulated_lorry" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69B.svg#U1F69B"></use>
+        </g>
+        <g id="tractor" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69C.svg#U1F69C"></use>
+        </g>
+        <g id="monorail" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69D.svg#U1F69D"></use>
+        </g>
+        <g id="mountain_railway" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69E.svg#U1F69E"></use>
+        </g>
+        <g id="suspension_railway" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F69F.svg#U1F69F"></use>
+        </g>
+        <g id="mountain_cableway" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A0.svg#U1F6A0"></use>
+        </g>
+        <g id="aerial_tramway" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A1.svg#U1F6A1"></use>
+        </g>
+        <g id="rowboat" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A3.svg#U1F6A3"></use>
+        </g>
+        <g id="vertical_traffic_light" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6A6.svg#U1F6A6"></use>
+        </g>
+        <g id="put_litter_in_its_place" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AE.svg#U1F6AE"></use>
+        </g>
+        <g id="do_not_litter" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6AF.svg#U1F6AF"></use>
+        </g>
+        <g id="potable_water" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B0.svg#U1F6B0"></use>
+        </g>
+        <g id="non-potable_water" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B1.svg#U1F6B1"></use>
+        </g>
+        <g id="no_bicycles" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B3.svg#U1F6B3"></use>
+        </g>
+        <g id="bicyclist" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B4.svg#U1F6B4"></use>
+        </g>
+        <g id="mountain_bicyclist" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B5.svg#U1F6B5"></use>
+        </g>
+        <g id="no_pedestrians" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B7.svg#U1F6B7"></use>
+        </g>
+        <g id="children_crossing" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6B8.svg#U1F6B8"></use>
+        </g>
+        <g id="shower" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6BF.svg#U1F6BF"></use>
+        </g>
+        <g id="bathtub" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C1.svg#U1F6C1"></use>
+        </g>
+        <g id="passport_control" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C2.svg#U1F6C2"></use>
+        </g>
+        <g id="customs" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C3.svg#U1F6C3"></use>
+        </g>
+        <g id="baggage_claim" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C4.svg#U1F6C4"></use>
+        </g>
+        <g id="left_luggage" class="emojione">
+          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F6C5.svg#U1F6C5"></use>
+        </g>
