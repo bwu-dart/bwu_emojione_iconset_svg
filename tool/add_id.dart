@@ -95,7 +95,7 @@ void main() {
 String def(String id) {
   return '''
         <g id="U${id}" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/${id}.svg#U${id}"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/${id}.svg#U${id}"></use>
         </g>
 ''';
 }
@@ -106,10 +106,18 @@ String def2(String id, String newId) {
   }
   return '''
         <g id="${newId}" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/${id}.svg#U${id}"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/${id}.svg#U${id}"></use>
         </g>
 ''';
 }
+
+// replace
+// +1: plus_eone
+// -1: minus_one
+// 100: hundred
+// 1234: one_two_three_four
+// 8ball: eight_ball
+
 
 var emojioneList = <String,List<String>>{
     ':hash:':["0023-fe0f-20e3", "0023-20e3"],
@@ -412,7 +420,7 @@ var emojioneList = <String,List<String>>{
  ':video_game:':["1f3ae"],
  ':dart:':["1f3af"],
  ':slot_machine:':["1f3b0"],
- ':8ball:':["1f3b1"],
+ ':eight_ball:':["1f3b1"],
  ':game_die:':["1f3b2"],
  ':bowling:':["1f3b3"],
  ':flower_playing_cards:':["1f3b4"],
@@ -509,9 +517,9 @@ var emojioneList = <String,List<String>>{
  ':wave:':["1f44b"],
  ':ok_hand:':["1f44c"],
  ':thumbsup:':["1f44d"],
- ':+1:':["1f44d"],
+ ':plus_one:':["1f44d"],
  ':thumbsdown:':["1f44e"],
- ':-1:':["1f44e"],
+ ':minus_one:':["1f44e"],
  ':clap:':["1f44f"],
  ':open_hands:':["1f450"],
  ':crown:':["1f451"],
@@ -671,7 +679,7 @@ var emojioneList = <String,List<String>>{
  ':capital_abcd:':["1f520"],
  ':abcd:':["1f521"],
  ':dizzy:':["1f4ab"],
- ':1234:':["1f522"],
+ ':one_two_three_four:':["1f522"],
  ':symbols:':["1f523"],
  ':speech_balloon:':["1f4ac"],
  ':abc:':["1f524"],
@@ -680,7 +688,7 @@ var emojioneList = <String,List<String>>{
  ':white_flower:':["1f4ae"],
  ':flashlight:':["1f526"],
  ':wrench:':["1f527"],
- ':100:':["1f4af"],
+ ':hundred:':["1f4af"],
  ':hammer:':["1f528"],
  ':nut_and_bolt:':["1f529"],
  ':moneybag:':["1f4b0"],
