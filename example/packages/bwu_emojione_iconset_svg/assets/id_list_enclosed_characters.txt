@@ -1,648 +1,648 @@
         <g id="U264D" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264D.svg#U264D"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264D.svg#U264D"></use>
         </g>
         <g id="U2614" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2614.svg#U2614"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2614.svg#U2614"></use>
         </g>
         <g id="U1F196" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F196.svg#U1F196"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F196.svg#U1F196"></use>
         </g>
         <g id="U2668" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2668.svg#U2668"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2668.svg#U2668"></use>
         </g>
         <g id="U1F17F" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F17F.svg#U1F17F"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F17F.svg#U1F17F"></use>
         </g>
         <g id="U26FD" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26FD.svg#U26FD"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26FD.svg#U26FD"></use>
         </g>
         <g id="U1F251" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F251.svg#U1F251"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F251.svg#U1F251"></use>
         </g>
         <g id="U1F1EC-1F1E7" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1EC-1F1E7.svg#U1F1EC-1F1E7"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1EC-1F1E7.svg#U1F1EC-1F1E7"></use>
         </g>
         <g id="U25FE" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25FE.svg#U25FE"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25FE.svg#U25FE"></use>
         </g>
         <g id="U2660" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2660.svg#U2660"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2660.svg#U2660"></use>
         </g>
         <g id="U264F" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264F.svg#U264F"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264F.svg#U264F"></use>
         </g>
         <g id="U26BE" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26BE.svg#U26BE"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26BE.svg#U26BE"></use>
         </g>
         <g id="U25B6" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25B6.svg#U25B6"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25B6.svg#U25B6"></use>
         </g>
         <g id="U260E" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/260E.svg#U260E"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/260E.svg#U260E"></use>
         </g>
         <g id="U1F23A" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F23A.svg#U1F23A"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F23A.svg#U1F23A"></use>
         </g>
         <g id="U2650" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2650.svg#U2650"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2650.svg#U2650"></use>
         </g>
         <g id="U1F17E" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F17E.svg#U1F17E"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F17E.svg#U1F17E"></use>
         </g>
         <g id="U1F1E9-1F1EA" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1E9-1F1EA.svg#U1F1E9-1F1EA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1E9-1F1EA.svg#U1F1E9-1F1EA"></use>
         </g>
         <g id="U1F22F" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F22F.svg#U1F22F"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F22F.svg#U1F22F"></use>
         </g>
         <g id="U2693" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2693.svg#U2693"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2693.svg#U2693"></use>
         </g>
         <g id="U1F234" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F234.svg#U1F234"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F234.svg#U1F234"></use>
         </g>
         <g id="U303D" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/303D.svg#U303D"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/303D.svg#U303D"></use>
         </g>
         <g id="U1F21A" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F21A.svg#U1F21A"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F21A.svg#U1F21A"></use>
         </g>
         <g id="U25C0" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25C0.svg#U25C0"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25C0.svg#U25C0"></use>
         </g>
         <g id="U1F004" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F004.svg#U1F004"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F004.svg#U1F004"></use>
         </g>
         <g id="U2600" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2600.svg#U2600"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2600.svg#U2600"></use>
         </g>
         <g id="U1F170" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F170.svg#U1F170"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F170.svg#U1F170"></use>
         </g>
         <g id="U1F232" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F232.svg#U1F232"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F232.svg#U1F232"></use>
         </g>
         <g id="U264A" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264A.svg#U264A"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264A.svg#U264A"></use>
         </g>
         <g id="U263A" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/263A.svg#U263A"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/263A.svg#U263A"></use>
         </g>
         <g id="U267F" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/267F.svg#U267F"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/267F.svg#U267F"></use>
         </g>
         <g id="U2B06" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B06.svg#U2B06"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B06.svg#U2B06"></use>
         </g>
         <g id="U2666" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2666.svg#U2666"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2666.svg#U2666"></use>
         </g>
         <g id="U1F236" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F236.svg#U1F236"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F236.svg#U1F236"></use>
         </g>
         <g id="U2934" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2934.svg#U2934"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2934.svg#U2934"></use>
         </g>
         <g id="U1F239" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F239.svg#U1F239"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F239.svg#U1F239"></use>
         </g>
         <g id="U264B" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264B.svg#U264B"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264B.svg#U264B"></use>
         </g>
         <g id="U26D4" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26D4.svg#U26D4"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26D4.svg#U26D4"></use>
         </g>
         <g id="U1F1E8-1F1F3" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1E8-1F1F3.svg#U1F1E8-1F1F3"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1E8-1F1F3.svg#U1F1E8-1F1F3"></use>
         </g>
         <g id="U1F1F7-1F1FA" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1F7-1F1FA.svg#U1F1F7-1F1FA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1F7-1F1FA.svg#U1F1F7-1F1FA"></use>
         </g>
         <g id="U2B05" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B05.svg#U2B05"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B05.svg#U2B05"></use>
         </g>
         <g id="U25FD" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25FD.svg#U25FD"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25FD.svg#U25FD"></use>
         </g>
         <g id="U26F3" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26F3.svg#U26F3"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26F3.svg#U26F3"></use>
         </g>
         <g id="U3299" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/3299.svg#U3299"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/3299.svg#U3299"></use>
         </g>
         <g id="U1F233" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F233.svg#U1F233"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F233.svg#U1F233"></use>
         </g>
         <g id="U2B07" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B07.svg#U2B07"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B07.svg#U2B07"></use>
         </g>
         <g id="U1F192" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F192.svg#U1F192"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F192.svg#U1F192"></use>
         </g>
         <g id="U2B1B" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B1B.svg#U2B1B"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B1B.svg#U2B1B"></use>
         </g>
         <g id="U1F18E" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F18E.svg#U1F18E"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F18E.svg#U1F18E"></use>
         </g>
         <g id="U1F198" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F198.svg#U1F198"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F198.svg#U1F198"></use>
         </g>
         <g id="U26CE" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26CE.svg#U26CE"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26CE.svg#U26CE"></use>
         </g>
         <g id="U1F197" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F197.svg#U1F197"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F197.svg#U1F197"></use>
         </g>
         <g id="U26C4" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26C4.svg#U26C4"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26C4.svg#U26C4"></use>
         </g>
         <g id="U1F238" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F238.svg#U1F238"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F238.svg#U1F238"></use>
         </g>
         <g id="U3030" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/3030.svg#U3030"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/3030.svg#U3030"></use>
         </g>
         <g id="U25AA" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25AA.svg#U25AA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25AA.svg#U25AA"></use>
         </g>
         <g id="U261D" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/261D.svg#U261D"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/261D.svg#U261D"></use>
         </g>
         <g id="U25FB" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25FB.svg#U25FB"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25FB.svg#U25FB"></use>
         </g>
         <g id="U1F1EA-1F1F8" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1EA-1F1F8.svg#U1F1EA-1F1F8"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1EA-1F1F8.svg#U1F1EA-1F1F8"></use>
         </g>
         <g id="U2649" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2649.svg#U2649"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2649.svg#U2649"></use>
         </g>
         <g id="U1F194" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F194.svg#U1F194"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F194.svg#U1F194"></use>
         </g>
         <g id="U26EA" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26EA.svg#U26EA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26EA.svg#U26EA"></use>
         </g>
         <g id="U26AA" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26AA.svg#U26AA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26AA.svg#U26AA"></use>
         </g>
         <g id="U1F19A" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F19A.svg#U1F19A"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F19A.svg#U1F19A"></use>
         </g>
         <g id="U264E" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264E.svg#U264E"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264E.svg#U264E"></use>
         </g>
         <g id="U26F2" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26F2.svg#U26F2"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26F2.svg#U26F2"></use>
         </g>
         <g id="U1F191" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F191.svg#U1F191"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F191.svg#U1F191"></use>
         </g>
         <g id="U264C" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264C.svg#U264C"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264C.svg#U264C"></use>
         </g>
         <g id="U24C2" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/24C2.svg#U24C2"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/24C2.svg#U24C2"></use>
         </g>
         <g id="U1F237" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F237.svg#U1F237"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F237.svg#U1F237"></use>
         </g>
         <g id="U2663" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2663.svg#U2663"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2663.svg#U2663"></use>
         </g>
         <g id="U1F199" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F199.svg#U1F199"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F199.svg#U1F199"></use>
         </g>
         <g id="U2652" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2652.svg#U2652"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2652.svg#U2652"></use>
         </g>
         <g id="U26FA" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26FA.svg#U26FA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26FA.svg#U26FA"></use>
         </g>
         <g id="U267B" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/267B.svg#U267B"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/267B.svg#U267B"></use>
         </g>
         <g id="U2615" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2615.svg#U2615"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2615.svg#U2615"></use>
         </g>
         <g id="U26A1" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26A1.svg#U26A1"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26A1.svg#U26A1"></use>
         </g>
         <g id="U25AB" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25AB.svg#U25AB"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25AB.svg#U25AB"></use>
         </g>
         <g id="U2648" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2648.svg#U2648"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2648.svg#U2648"></use>
         </g>
         <g id="U26F5" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26F5.svg#U26F5"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26F5.svg#U26F5"></use>
         </g>
         <g id="U26BD" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26BD.svg#U26BD"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26BD.svg#U26BD"></use>
         </g>
         <g id="U1F202" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F202.svg#U1F202"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F202.svg#U1F202"></use>
         </g>
         <g id="U1F235" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F235.svg#U1F235"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F235.svg#U1F235"></use>
         </g>
         <g id="U2935" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2935.svg#U2935"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2935.svg#U2935"></use>
         </g>
         <g id="U1F201" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F201.svg#U1F201"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F201.svg#U1F201"></use>
         </g>
         <g id="U1F1EB-1F1F7" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1EB-1F1F7.svg#U1F1EB-1F1F7"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1EB-1F1F7.svg#U1F1EB-1F1F7"></use>
         </g>
         <g id="U2651" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2651.svg#U2651"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2651.svg#U2651"></use>
         </g>
         <g id="U3297" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/3297.svg#U3297"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/3297.svg#U3297"></use>
         </g>
         <g id="U1F1EF-1F1F5" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1EF-1F1F5.svg#U1F1EF-1F1F5"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1EF-1F1F5.svg#U1F1EF-1F1F5"></use>
         </g>
         <g id="U1F1FA-1F1F8" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1FA-1F1F8.svg#U1F1FA-1F1F8"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1FA-1F1F8.svg#U1F1FA-1F1F8"></use>
         </g>
         <g id="U2653" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2653.svg#U2653"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2653.svg#U2653"></use>
         </g>
         <g id="U26C5" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26C5.svg#U26C5"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26C5.svg#U26C5"></use>
         </g>
         <g id="U2B1C" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B1C.svg#U2B1C"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B1C.svg#U2B1C"></use>
         </g>
         <g id="U1F250" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F250.svg#U1F250"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F250.svg#U1F250"></use>
         </g>
         <g id="U1F0CF" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F0CF.svg#U1F0CF"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F0CF.svg#U1F0CF"></use>
         </g>
         <g id="U2B50" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B50.svg#U2B50"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B50.svg#U2B50"></use>
         </g>
         <g id="U2601" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2601.svg#U2601"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2601.svg#U2601"></use>
         </g>
         <g id="U26AB" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26AB.svg#U26AB"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26AB.svg#U26AB"></use>
         </g>
         <g id="U1F1EE-1F1F9" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1EE-1F1F9.svg#U1F1EE-1F1F9"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1EE-1F1F9.svg#U1F1EE-1F1F9"></use>
         </g>
         <g id="U1F193" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F193.svg#U1F193"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F193.svg#U1F193"></use>
         </g>
         <g id="U2B55" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B55.svg#U2B55"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B55.svg#U2B55"></use>
         </g>
         <g id="U1F171" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F171.svg#U1F171"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F171.svg#U1F171"></use>
         </g>
         <g id="U1F1F0-1F1F7" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1F0-1F1F7.svg#U1F1F0-1F1F7"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1F0-1F1F7.svg#U1F1F0-1F1F7"></use>
         </g>
         <g id="U2665" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2665.svg#U2665"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2665.svg#U2665"></use>
         </g>
         <g id="U1F195" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F195.svg#U1F195"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F195.svg#U1F195"></use>
         </g>
         <g id="U26A0" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26A0.svg#U26A0"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26A0.svg#U26A0"></use>
         </g>
         <g id="U2611" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2611.svg#U2611"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2611.svg#U2611"></use>
         </g>
         <g id="U25FC" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25FC.svg#U25FC"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25FC.svg#U25FC"></use>
         </g>
         <g id="m" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/24C2.svg#U24C2"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/24C2.svg#U24C2"></use>
         </g>
         <g id="black_small_square" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25AA.svg#U25AA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25AA.svg#U25AA"></use>
         </g>
         <g id="white_small_square" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25AB.svg#U25AB"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25AB.svg#U25AB"></use>
         </g>
         <g id="arrow_forward" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25B6.svg#U25B6"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25B6.svg#U25B6"></use>
         </g>
         <g id="arrow_backward" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25C0.svg#U25C0"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25C0.svg#U25C0"></use>
         </g>
         <g id="white_medium_square" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25FB.svg#U25FB"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25FB.svg#U25FB"></use>
         </g>
         <g id="black_medium_square" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25FC.svg#U25FC"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25FC.svg#U25FC"></use>
         </g>
         <g id="white_medium_small_square" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25FD.svg#U25FD"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25FD.svg#U25FD"></use>
         </g>
         <g id="black_medium_small_square" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/25FE.svg#U25FE"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/25FE.svg#U25FE"></use>
         </g>
         <g id="sunny" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2600.svg#U2600"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2600.svg#U2600"></use>
         </g>
         <g id="cloud" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2601.svg#U2601"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2601.svg#U2601"></use>
         </g>
         <g id="telephone" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/260E.svg#U260E"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/260E.svg#U260E"></use>
         </g>
         <g id="ballot_box_with_check" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2611.svg#U2611"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2611.svg#U2611"></use>
         </g>
         <g id="umbrella" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2614.svg#U2614"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2614.svg#U2614"></use>
         </g>
         <g id="coffee" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2615.svg#U2615"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2615.svg#U2615"></use>
         </g>
         <g id="point_up" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/261D.svg#U261D"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/261D.svg#U261D"></use>
         </g>
         <g id="relaxed" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/263A.svg#U263A"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/263A.svg#U263A"></use>
         </g>
         <g id="aries" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2648.svg#U2648"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2648.svg#U2648"></use>
         </g>
         <g id="taurus" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2649.svg#U2649"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2649.svg#U2649"></use>
         </g>
         <g id="gemini" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264A.svg#U264A"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264A.svg#U264A"></use>
         </g>
         <g id="cancer" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264B.svg#U264B"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264B.svg#U264B"></use>
         </g>
         <g id="leo" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264C.svg#U264C"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264C.svg#U264C"></use>
         </g>
         <g id="virgo" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264D.svg#U264D"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264D.svg#U264D"></use>
         </g>
         <g id="libra" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264E.svg#U264E"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264E.svg#U264E"></use>
         </g>
         <g id="scorpius" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/264F.svg#U264F"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/264F.svg#U264F"></use>
         </g>
         <g id="sagittarius" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2650.svg#U2650"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2650.svg#U2650"></use>
         </g>
         <g id="capricorn" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2651.svg#U2651"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2651.svg#U2651"></use>
         </g>
         <g id="aquarius" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2652.svg#U2652"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2652.svg#U2652"></use>
         </g>
         <g id="pisces" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2653.svg#U2653"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2653.svg#U2653"></use>
         </g>
         <g id="spades" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2660.svg#U2660"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2660.svg#U2660"></use>
         </g>
         <g id="clubs" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2663.svg#U2663"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2663.svg#U2663"></use>
         </g>
         <g id="hearts" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2665.svg#U2665"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2665.svg#U2665"></use>
         </g>
         <g id="diamonds" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2666.svg#U2666"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2666.svg#U2666"></use>
         </g>
         <g id="hotsprings" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2668.svg#U2668"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2668.svg#U2668"></use>
         </g>
         <g id="recycle" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/267B.svg#U267B"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/267B.svg#U267B"></use>
         </g>
         <g id="wheelchair" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/267F.svg#U267F"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/267F.svg#U267F"></use>
         </g>
         <g id="anchor" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2693.svg#U2693"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2693.svg#U2693"></use>
         </g>
         <g id="warning" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26A0.svg#U26A0"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26A0.svg#U26A0"></use>
         </g>
         <g id="zap" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26A1.svg#U26A1"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26A1.svg#U26A1"></use>
         </g>
         <g id="white_circle" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26AA.svg#U26AA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26AA.svg#U26AA"></use>
         </g>
         <g id="black_circle" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26AB.svg#U26AB"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26AB.svg#U26AB"></use>
         </g>
         <g id="soccer" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26BD.svg#U26BD"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26BD.svg#U26BD"></use>
         </g>
         <g id="baseball" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26BE.svg#U26BE"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26BE.svg#U26BE"></use>
         </g>
         <g id="snowman" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26C4.svg#U26C4"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26C4.svg#U26C4"></use>
         </g>
         <g id="partly_sunny" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26C5.svg#U26C5"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26C5.svg#U26C5"></use>
         </g>
         <g id="ophiuchus" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26CE.svg#U26CE"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26CE.svg#U26CE"></use>
         </g>
         <g id="no_entry" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26D4.svg#U26D4"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26D4.svg#U26D4"></use>
         </g>
         <g id="church" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26EA.svg#U26EA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26EA.svg#U26EA"></use>
         </g>
         <g id="fountain" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26F2.svg#U26F2"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26F2.svg#U26F2"></use>
         </g>
         <g id="golf" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26F3.svg#U26F3"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26F3.svg#U26F3"></use>
         </g>
         <g id="sailboat" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26F5.svg#U26F5"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26F5.svg#U26F5"></use>
         </g>
         <g id="tent" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26FA.svg#U26FA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26FA.svg#U26FA"></use>
         </g>
         <g id="fuelpump" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/26FD.svg#U26FD"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/26FD.svg#U26FD"></use>
         </g>
         <g id="arrow_heading_up" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2934.svg#U2934"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2934.svg#U2934"></use>
         </g>
         <g id="arrow_heading_down" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2935.svg#U2935"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2935.svg#U2935"></use>
         </g>
         <g id="arrow_left" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B05.svg#U2B05"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B05.svg#U2B05"></use>
         </g>
         <g id="arrow_up" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B06.svg#U2B06"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B06.svg#U2B06"></use>
         </g>
         <g id="arrow_down" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B07.svg#U2B07"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B07.svg#U2B07"></use>
         </g>
         <g id="black_large_square" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B1B.svg#U2B1B"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B1B.svg#U2B1B"></use>
         </g>
         <g id="white_large_square" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B1C.svg#U2B1C"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B1C.svg#U2B1C"></use>
         </g>
         <g id="star" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B50.svg#U2B50"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B50.svg#U2B50"></use>
         </g>
         <g id="o" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/2B55.svg#U2B55"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/2B55.svg#U2B55"></use>
         </g>
         <g id="wavy_dash" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/3030.svg#U3030"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/3030.svg#U3030"></use>
         </g>
         <g id="part_alternation_mark" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/303D.svg#U303D"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/303D.svg#U303D"></use>
         </g>
         <g id="congratulations" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/3297.svg#U3297"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/3297.svg#U3297"></use>
         </g>
         <g id="secret" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/3299.svg#U3299"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/3299.svg#U3299"></use>
         </g>
         <g id="mahjong" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F004.svg#U1F004"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F004.svg#U1F004"></use>
         </g>
         <g id="black_joker" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F0CF.svg#U1F0CF"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F0CF.svg#U1F0CF"></use>
         </g>
         <g id="a" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F170.svg#U1F170"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F170.svg#U1F170"></use>
         </g>
         <g id="b" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F171.svg#U1F171"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F171.svg#U1F171"></use>
         </g>
         <g id="o2" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F17E.svg#U1F17E"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F17E.svg#U1F17E"></use>
         </g>
         <g id="parking" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F17F.svg#U1F17F"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F17F.svg#U1F17F"></use>
         </g>
         <g id="ab" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F18E.svg#U1F18E"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F18E.svg#U1F18E"></use>
         </g>
         <g id="cl" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F191.svg#U1F191"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F191.svg#U1F191"></use>
         </g>
         <g id="cool" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F192.svg#U1F192"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F192.svg#U1F192"></use>
         </g>
         <g id="free" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F193.svg#U1F193"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F193.svg#U1F193"></use>
         </g>
         <g id="id" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F194.svg#U1F194"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F194.svg#U1F194"></use>
         </g>
         <g id="new" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F195.svg#U1F195"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F195.svg#U1F195"></use>
         </g>
         <g id="ng" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F196.svg#U1F196"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F196.svg#U1F196"></use>
         </g>
         <g id="ok" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F197.svg#U1F197"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F197.svg#U1F197"></use>
         </g>
         <g id="sos" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F198.svg#U1F198"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F198.svg#U1F198"></use>
         </g>
         <g id="up" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F199.svg#U1F199"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F199.svg#U1F199"></use>
         </g>
         <g id="vs" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F19A.svg#U1F19A"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F19A.svg#U1F19A"></use>
         </g>
         <g id="cn" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1E8-1F1F3.svg#U1F1E8-1F1F3"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1E8-1F1F3.svg#U1F1E8-1F1F3"></use>
         </g>
         <g id="de" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1E9-1F1EA.svg#U1F1E9-1F1EA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1E9-1F1EA.svg#U1F1E9-1F1EA"></use>
         </g>
         <g id="es" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1EA-1F1F8.svg#U1F1EA-1F1F8"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1EA-1F1F8.svg#U1F1EA-1F1F8"></use>
         </g>
         <g id="fr" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1EB-1F1F7.svg#U1F1EB-1F1F7"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1EB-1F1F7.svg#U1F1EB-1F1F7"></use>
         </g>
         <g id="gb" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1EC-1F1E7.svg#U1F1EC-1F1E7"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1EC-1F1E7.svg#U1F1EC-1F1E7"></use>
         </g>
         <g id="it" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1EE-1F1F9.svg#U1F1EE-1F1F9"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1EE-1F1F9.svg#U1F1EE-1F1F9"></use>
         </g>
         <g id="jp" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1EF-1F1F5.svg#U1F1EF-1F1F5"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1EF-1F1F5.svg#U1F1EF-1F1F5"></use>
         </g>
         <g id="kr" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1F0-1F1F7.svg#U1F1F0-1F1F7"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1F0-1F1F7.svg#U1F1F0-1F1F7"></use>
         </g>
         <g id="us" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1FA-1F1F8.svg#U1F1FA-1F1F8"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1FA-1F1F8.svg#U1F1FA-1F1F8"></use>
         </g>
         <g id="ru" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F1F7-1F1FA.svg#U1F1F7-1F1FA"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F1F7-1F1FA.svg#U1F1F7-1F1FA"></use>
         </g>
         <g id="koko" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F201.svg#U1F201"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F201.svg#U1F201"></use>
         </g>
         <g id="sa" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F202.svg#U1F202"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F202.svg#U1F202"></use>
         </g>
         <g id="u7121" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F21A.svg#U1F21A"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F21A.svg#U1F21A"></use>
         </g>
         <g id="u6307" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F22F.svg#U1F22F"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F22F.svg#U1F22F"></use>
         </g>
         <g id="u7981" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F232.svg#U1F232"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F232.svg#U1F232"></use>
         </g>
         <g id="u7a7a" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F233.svg#U1F233"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F233.svg#U1F233"></use>
         </g>
         <g id="u5408" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F234.svg#U1F234"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F234.svg#U1F234"></use>
         </g>
         <g id="u6e80" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F235.svg#U1F235"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F235.svg#U1F235"></use>
         </g>
         <g id="u6709" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F236.svg#U1F236"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F236.svg#U1F236"></use>
         </g>
         <g id="u6708" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F237.svg#U1F237"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F237.svg#U1F237"></use>
         </g>
         <g id="u7533" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F238.svg#U1F238"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F238.svg#U1F238"></use>
         </g>
         <g id="u5272" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F239.svg#U1F239"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F239.svg#U1F239"></use>
         </g>
         <g id="u55b6" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F23A.svg#U1F23A"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F23A.svg#U1F23A"></use>
         </g>
         <g id="ideograph_advantage" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F250.svg#U1F250"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F250.svg#U1F250"></use>
         </g>
         <g id="accept" class="emojione">
-          <use xlink:href="../../packages/bwu_emojione_iconset_svg/assets/svg/1F251.svg#U1F251"></use>
+          <use xlink:href="packages/bwu_emojione_iconset_svg/assets/svg/1F251.svg#U1F251"></use>
         </g>
