@@ -12,7 +12,7 @@ packages:
   barback:
     description: barback
     source: hosted
-    version: "0.15.2+1"
+    version: "0.15.2+2"
   browser:
     description: browser
     source: hosted
@@ -20,7 +20,7 @@ packages:
   code_transformers:
     description: code_transformers
     source: hosted
-    version: "0.2.3"
+    version: "0.2.3+1"
   collection:
     description: collection
     source: hosted
@@ -28,11 +28,15 @@ packages:
   core_elements:
     description: core_elements
     source: hosted
-    version: "0.2.1+1"
+    version: "0.3.0"
   csslib:
     description: csslib
     source: hosted
     version: "0.11.0+2"
+  custom_element_apigen:
+    description: custom_element_apigen
+    source: hosted
+    version: "0.0.2+1"
   html5lib:
     description: html5lib
     source: hosted
@@ -48,7 +52,7 @@ packages:
   paper_elements:
     description: paper_elements
     source: hosted
-    version: "0.2.0"
+    version: "0.4.0"
   path:
     description: path
     source: hosted
@@ -56,7 +60,7 @@ packages:
   polymer:
     description: polymer
     source: hosted
-    version: "0.14.0+1"
+    version: "0.15.0"
   polymer_expressions:
     description: polymer_expressions
     source: hosted
@@ -72,7 +76,7 @@ packages:
   smoke:
     description: smoke
     source: hosted
-    version: "0.2.1"
+    version: "0.2.1+1"
   source_maps:
     description: source_maps
     source: hosted
@@ -84,7 +88,7 @@ packages:
   stack_trace:
     description: stack_trace
     source: hosted
-    version: "1.0.2"
+    version: "1.1.1"
   string_scanner:
     description: string_scanner
     source: hosted
@@ -104,7 +108,7 @@ packages:
   web_components:
     description: web_components
     source: hosted
-    version: "0.7.0"
+    version: "0.7.1"
   yaml:
     description: yaml
     source: hosted

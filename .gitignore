@@ -8,4 +8,5 @@ build
 .settings
 *.exe
 *.*~
-
+atlassian-ide-plugin.xml
+lib/assets/id*.txt
