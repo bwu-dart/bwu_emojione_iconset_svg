@@ -2,7 +2,7 @@
 
 ##Emoji provided free by [Emoji One](http://emojione.com)
 
-##[Open live demo](http://bwu-dart.github.io/bwu_emojione_iconset_svg/example/example01.html)
+##[Live demo - all icons](http://bwu-dart.github.io/bwu_emojione_iconset_svg/example/example01.html)
 
 ####Emoji One emoji graphics are free to use for any project, commercial or personal under a "Free Culture" Creative Commons License (CC-BY-SA). Attribution is required for the rights to use our emoji.
 For more details see the [Emoji One license information](http://emojione.com/developers)
