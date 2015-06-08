@@ -1,7 +1,6 @@
 library bwu_fontawesome_iconset_svg.example.example01;
 
 import 'dart:html' as dom;
-import 'dart:js' as js;
 import 'package:polymer/polymer.dart';
 
 @CustomTag('ex01-app')
