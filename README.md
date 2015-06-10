@@ -2,8 +2,8 @@
 
 [![Star this Repo](https://img.shields.io/github/stars/bwu-dart/bwu_emojione_iconset_svg.svg?style=flat)](https://github.com/bwu-dart/bwu_emojione_iconset_svg)
 [![Pub Package](https://img.shields.io/pub/v/bwu_emojione_iconset_svg.svg?style=flat)](https://pub.dartlang.org/packages/bwu_emojione_iconset_svg)
-[![Build Status](https://travis-ci.org/bwu-dart/bwu_emojione_iconset_svg.svg?branch=travis)](https://travis-ci.org/bwu-dart/bwu_emojione_iconset_svg)
-[![Coverage Status](https://coveralls.io/repos/bwu-dart/bwu_emojione_iconset_svg/badge.svg)](https://coveralls.io/r/bwu-dart/bwu_emojione_iconset_svg)
+[![Build Status](https://travis-ci.org/bwu-dart/bwu_emojione_iconset_svg.svg?branch=master)](https://travis-ci.org/bwu-dart/bwu_emojione_iconset_svg)
+[![Coverage Status](https://coveralls.io/repos/bwu-dart/bwu_emojione_iconset_svg/badge.svg?branch=master)](https://coveralls.io/r/bwu-dart/bwu_emojione_iconset_svg)
 
 ##Emoji provided free by [Emoji One](http://emojione.com)
 
